@@ -1,22 +1,22 @@
 // Objekt med mindst fire egenskaber
 const person = {
-    name: "Gorius",
-    age: "i mellem 81 og 19",
-    city: "København",
-    job: "HE got no",
+    name: "MICO",
+    age: "22",
+    ethnicity: "Filipino-Canadian",
+    occupation: "singer",
     married: false, /* boolean */
-    hobbies: ["uhm", "nååååå nice nice nice", "ikke rigtig mere"], /* array */
+    hobbies: ["music", "twitch streamer", "tik tok"], /* array */
     pet: { /* object */
-        type: "watermelon",
-        name: "bob",
+        type: "dog",
+        name: "Argos",
     }
 };
 
 // Dot notation
 console.log(person.name);
 console.log(person.age);
-console.log(person.city);
-console.log(person.job);
+console.log(person.ethnicity);
+console.log(person.occupation);
 /* console.log(person.married);
 console.log(person.hobbies);
 console.log(person.pet) */
@@ -24,8 +24,8 @@ console.log(person.pet) */
 // Bracket notation
 /* console.log(person["name"]);
 console.log(person["age"]);
-console.log(person["city"]);
-console.log(person["job"]); */
+console.log(person["ethnicity"]);
+console.log(person["occupation"]); */
 
 /* ----- */
 
