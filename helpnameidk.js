@@ -3,11 +3,11 @@ const person = {
     name: "MICO",
     age: "22",
     ethnicity: "Filipino-Canadian",
-    occupation: "singer",
+    occupation: "Singer",
     married: false, /* boolean */
     hobbies: ["music", "twitch streamer", "tik tok"], /* array */
     pet: { /* object */
-        type: "dog",
+        type: "Dog",
         name: "Argos",
     }
 };
