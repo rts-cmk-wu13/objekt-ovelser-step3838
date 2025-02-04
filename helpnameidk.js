@@ -22,10 +22,13 @@ console.log(person.hobbies);
 console.log(person.pet) */
 
 // Bracket notation
-console.log(person["name"]);
+/* console.log(person["name"]);
 console.log(person["age"]);
 console.log(person["city"]);
-console.log(person["job"]);
+console.log(person["job"]); */
+
+/* ----- */
+
 /* console.log(person["married"]);
 console.log(person["hobbies"]);
 console.log(person["pet"]); */
